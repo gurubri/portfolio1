@@ -492,8 +492,9 @@ html {
         height: 40rem; } }
 
 .footer {
-  height: fit-content;
-  background-color: transparent;
+  background-color: rgba(11, 148, 150, 0.7);
+  background-size: cover;
   text-align: center; }
   .footer p {
-    font-size: 3rem; }
+    font-size: 3rem;
+    margin: 0; }

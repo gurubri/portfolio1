@@ -1,8 +1,10 @@
 .footer {
-  height: fit-content;
-  background-color: transparent;
+  background-color: rgba(11, 148, 150, 0.7);
+  background-size: cover;
   text-align: center;
+  padding: 0.5rem;
   p {
     font-size: 3rem;
+    margin: 0;
   }
 }
