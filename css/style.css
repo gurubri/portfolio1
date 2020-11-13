@@ -271,7 +271,7 @@ html {
           font-size: 1.6rem; } }
 
 .projects {
-  height: fit-content;
+  height: 100vh;
   position: relative;
   display: grid;
   place-items: center;
@@ -494,7 +494,8 @@ html {
 .footer {
   background-color: rgba(11, 148, 150, 0.7);
   background-size: cover;
-  text-align: center; }
+  text-align: center;
+  padding: 0.5rem; }
   .footer p {
     font-size: 3rem;
     margin: 0; }
