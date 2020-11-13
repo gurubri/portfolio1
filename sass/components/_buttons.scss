@@ -1,0 +1,36 @@
+.btn {
+  padding: 1rem 1rem;
+  @include clearText;
+  font-size: 1.6rem;
+  border-radius: 5rem;
+  //   border: 1px solid black;
+  &-black {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    margin-bottom: 2rem;
+  }
+  &-green {
+    color: #04cff3;
+    background-color: gray;
+    // box-shadow: 0 0 10px #04cff3, 0 0 40px #04cff3, 0 0 80px #04cff3;
+  }
+  &-hireme {
+    position: absolute;
+    bottom: 3rem;
+    left: 6rem;
+    background-color: rgba(232, 140, 41, 1);
+  }
+  &-green:hover {
+    color: #08587e;
+    background: #04cff3;
+    box-shadow: 0 0 10px #04cff3, 0 0 40px #04cff3, 0 0 80px #04cff3;
+  }
+  &-grey {
+    color: white;
+    background-color: gray;
+  }
+  &-grey:hover {
+    box-shadow: 0 0 10px gray, 0 0 40px gray, 0 0 80px gray;
+  }
+}

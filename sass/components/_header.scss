@@ -1,0 +1,96 @@
+.header {
+  height: 100vh;
+  position: relative;
+
+  &__one {
+    height: 100%;
+    background-image: url(../imgs/starwars.webp);
+    background-size: contain;
+    display: inline-block;
+    width: 100%;
+    clip-path: polygon(0 0, 60% 0, 43% 100%, 0% 100%);
+
+    &-text {
+      text-transform: uppercase;
+      font-size: 4.5rem;
+
+      margin-top: 20rem;
+      margin-left: 1rem;
+      line-height: 1.6;
+
+      p {
+        font-family: "Playfair Display", serif;
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typewriter 8s steps(44);
+        color: white;
+      }
+    }
+  }
+  &__two {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-image: linear-gradient(
+      to right bottom,
+      rgba(7, 150, 152, 0.12),
+      rgba(9, 72, 90, 0.76)
+    );
+    overflow: hidden;
+
+    &-container {
+      margin-top: 10rem;
+      width: 40%;
+      height: auto;
+      position: absolute;
+      right: 0;
+
+      &-heading {
+        font-size: 6rem;
+        text-transform: uppercase;
+        text-align: right;
+        font-family: "Roboto Mono", monospace;
+        color: white;
+        border-bottom: 1rem solid white;
+        margin-right: 1rem;
+        border-radius: 1rem;
+        font-weight: 100;
+        line-height: 1;
+        animation: moveIn 3s;
+        box-shadow: 0 1px 2px 3px rgba(0, 0, 0, 1);
+      }
+      &-paragraph {
+        font-size: 2rem;
+        margin-bottom: 6rem;
+        text-align: right;
+        margin-right: 1rem;
+
+        font-family: "Roboto Mono", monospace;
+        color: white;
+        line-height: 1.1;
+        border-radius: 1rem;
+      }
+    }
+  }
+  @include respond(tab-port) {
+    height: 130vh;
+    &__one {
+      background-size: cover;
+      clip-path: polygon(0 0, 100% 0, 100% 40%, 0 60%);
+    }
+    &__two {
+      height: 100%;
+      &-container {
+        text-align: center;
+        width: unset;
+
+        &-paragraph {
+          font-size: 1.4rem;
+          margin: 2rem 1rem;
+        }
+      }
+    }
+  }
+}

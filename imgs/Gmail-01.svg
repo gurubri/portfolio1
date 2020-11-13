@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.16;fill:#263238;}
+	.st1{fill:#E1E1E1;}
+	.st2{fill:#EEEEEE;}
+	.st3{opacity:0.4;fill:#E1E1E1;}
+	.st4{fill:#FFFFFF;fill-opacity:0.4;}
+	.st5{fill:#B93221;}
+	.st6{fill:#D23F31;}
+	.st7{opacity:0.4;}
+	.st8{filter:url(#Adobe_OpacityMaskFilter);}
+	.st9{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st10{mask:url(#XMLID_54_);fill:url(#XMLID_56_);}
+	.st11{fill:url(#XMLID_57_);}
+	.st12{clip-path:url(#XMLID_61_);}
+	.st13{fill:#FFFFFF;}
+	.st14{fill:#DB4437;}
+	.st15{opacity:4.000000e-002;fill:#263238;}
+	.st16{opacity:0.24;fill:#3E2723;}
+	.st17{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st18{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st19{mask:url(#XMLID_62_);fill:url(#XMLID_63_);}
+	.st20{opacity:8.000000e-002;fill:url(#XMLID_64_);}
+</style>
+<g id="XMLID_1_">
+	<g id="XMLID_55_">
+		<path id="XMLID_27_" class="st0" d="M409.7,384.1H90.3c-12.6,0-22.8-10.2-22.8-22.8v1.9c0,12.6,10.2,22.8,22.8,22.8h319.4
+			c12.6,0,22.8-10.2,22.8-22.8v-1.9C432.5,373.9,422.3,384.1,409.7,384.1z"/>
+	</g>
+	<rect id="XMLID_53_" x="90.3" y="113.1" class="st1" width="319.4" height="273.8"/>
+	<g id="XMLID_43_">
+		<g id="XMLID_49_">
+			<polygon id="XMLID_25_" class="st2" points="432.5,135.9 113.1,385 113.1,386.9 409.7,386.9 			"/>
+			<polygon id="XMLID_24_" class="st3" points="432.5,135.9 113.1,385 113.1,386.9 409.7,386.9 			"/>
+		</g>
+		<polygon id="XMLID_46_" class="st4" points="113.1,385 113.1,386.9 386.9,173.4 386.9,171.5 		"/>
+		<path id="XMLID_45_" class="st5" d="M386.9,135.9l22.8-22.8c12.6,0,22.8,10.2,22.8,22.8v228.1c0,12.6-10.2,22.8-22.8,22.8h-22.8
+			V135.9z"/>
+		<path id="XMLID_44_" class="st6" d="M113.1,135.9l-22.8-22.8c-12.6,0-22.8,10.2-22.8,22.8v228.1c0,12.6,10.2,22.8,22.8,22.8h22.8
+			V135.9z"/>
+	</g>
+	<g id="XMLID_7_" class="st7">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="74.1" y="135.9" width="358.4" height="250.9">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="74.1" y="135.9" width="358.4" height="250.9" id="XMLID_54_">
+			<g id="XMLID_38_" class="st8">
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="74.1" y="135.9" width="358.4" height="250.9">
+						<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+						<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="74.1" y="135.9" width="358.4" height="250.9" id="XMLID_54_">
+					<g id="XMLID_50_" class="st9">
+					</g>
+				</mask>
+				<radialGradient id="XMLID_56_" cx="74.0179" cy="151.6888" r="419.9153" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.32" style="stop-color:#333333"/>
+					<stop  offset="0.3962" style="stop-color:#292929"/>
+					<stop  offset="0.6136" style="stop-color:#121212"/>
+					<stop  offset="0.8194" style="stop-color:#050505"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</radialGradient>
+				<path id="XMLID_41_" class="st10" d="M309,386.9L74.1,152L250,223.6l182.5-87.7v228.1c0,12.6-10.2,22.8-22.8,22.8H309z"/>
+			</g>
+		</mask>
+		<radialGradient id="XMLID_57_" cx="74.0179" cy="151.6888" r="419.9153" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.32" style="stop-color:#263238"/>
+			<stop  offset="1" style="stop-color:#263238"/>
+		</radialGradient>
+		<path id="XMLID_29_" class="st11" d="M309,386.9L74.1,152L250,223.6l182.5-87.7v228.1c0,12.6-10.2,22.8-22.8,22.8H309z"/>
+	</g>
+	<g id="XMLID_33_">
+		<defs>
+			<path id="XMLID_34_" d="M67.5,135.9v228.1c0,12.6,10.2,22.8,22.8,22.8h319.4c12.6,0,22.8-10.2,22.8-22.8V135.9H67.5z"/>
+		</defs>
+		<clipPath id="XMLID_61_">
+			<use xlink:href="#XMLID_34_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="XMLID_35_" class="st12">
+			<g id="XMLID_39_">
+				<g id="XMLID_42_">
+					<path id="XMLID_47_" class="st13" d="M409.7,113.1H90.3c-12.6,0-22.8,10.2-22.8,22.8c0,7.7,3.8,14.4,9.6,18.6L250,278.2
+						l172.9-123.7c5.8-4.1,9.6-10.9,9.6-18.6C432.5,123.3,422.3,113.1,409.7,113.1z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<polygon id="XMLID_32_" class="st2" points="250,278.2 409.7,113.1 90.3,113.1 	"/>
+	<path id="XMLID_31_" class="st14" d="M422.9,154.5c5.8-4.1,9.6-10.9,9.6-18.6c0-12.6-10.2-22.8-22.8-22.8h-7.6L250,223.6
+		L97.9,113.1h-7.6c-12.6,0-22.8,10.2-22.8,22.8c0,7.7,3.8,14.4,9.6,18.6L250,278.2L422.9,154.5z"/>
+	<g id="XMLID_28_">
+		<path id="XMLID_26_" class="st15" d="M409.7,113.1H90.3c-12.6,0-22.8,10.2-22.8,22.8v1.9c0-12.6,10.2-22.8,22.8-22.8h319.4
+			c12.6,0,22.8,10.2,22.8,22.8v-1.9C432.5,123.3,422.3,113.1,409.7,113.1z"/>
+	</g>
+	<g id="XMLID_6_">
+		<path id="XMLID_22_" class="st16" d="M422.9,152.6L250,276.3L77.1,152.6c-5.6-4-9.2-10.4-9.5-17.7c0,0.3-0.1,0.7-0.1,1
+			c0,7.7,3.8,14.4,9.6,18.6L250,278.2l172.9-123.7c5.8-4.1,9.6-10.9,9.6-18.6c0-0.4,0-0.7-0.1-1
+			C432.2,142.2,428.5,148.6,422.9,152.6z"/>
+	</g>
+	<g id="XMLID_5_">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="67.5" y="113.1" width="365" height="273.8">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="67.5" y="113.1" width="365" height="273.8" id="XMLID_62_">
+			<g id="XMLID_30_" class="st17">
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="67.5" y="113.1" width="365" height="273.8">
+						<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+						<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="67.5" y="113.1" width="365" height="273.8" id="XMLID_62_">
+					<g id="XMLID_37_" class="st18">
+					</g>
+				</mask>
+				<radialGradient id="XMLID_63_" cx="74.0393" cy="119.7744" r="437.6134" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="7.056916e-002" style="stop-color:#E0E0E0"/>
+					<stop  offset="0.2148" style="stop-color:#A5A5A5"/>
+					<stop  offset="0.359" style="stop-color:#737373"/>
+					<stop  offset="0.4997" style="stop-color:#494949"/>
+					<stop  offset="0.6363" style="stop-color:#292929"/>
+					<stop  offset="0.7676" style="stop-color:#131313"/>
+					<stop  offset="0.8915" style="stop-color:#050505"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</radialGradient>
+				<path id="XMLID_36_" class="st19" d="M409.7,113.1H90.3c-12.6,0-22.8,10.2-22.8,22.8v228.1c0,12.6,10.2,22.8,22.8,22.8h319.4
+					c12.6,0,22.8-10.2,22.8-22.8V135.9C432.5,123.3,422.3,113.1,409.7,113.1z"/>
+			</g>
+		</mask>
+		<radialGradient id="XMLID_64_" cx="74.0393" cy="119.7744" r="437.6134" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path id="XMLID_23_" class="st20" d="M409.7,113.1H90.3c-12.6,0-22.8,10.2-22.8,22.8v228.1c0,12.6,10.2,22.8,22.8,22.8h319.4
+			c12.6,0,22.8-10.2,22.8-22.8V135.9C432.5,123.3,422.3,113.1,409.7,113.1z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+@keyframes typewriter {
+  0% {
+    width: 0ch;
+  }
+  100% {
+    width: 44ch;
+  }
+}
+@keyframes moveIn {
+  20% {
+    display: none;
+  }
+  60% {
+    transform: translateY(6rem);
+  }
+}

@@ -1,0 +1,69 @@
+.hireme {
+  background-attachment: fixed;
+  height: 100vh;
+  background-image: url(../imgs/background.jpg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+
+  &-title {
+    @include headingAside;
+  }
+  &-title2 {
+    color: white;
+    font-size: 3rem;
+  }
+  &-social {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    box-shadow: 0 1.5px 3px 3px black;
+    height: 70vh;
+    width: 40%;
+    margin-right: 3rem;
+    overflow: hidden;
+    &-group {
+      text-align: start;
+      width: 100%;
+      margin-left: 1rem;
+      border-bottom: 1px solid gray;
+      padding: 1rem;
+
+      img {
+        width: 10%;
+      }
+      a {
+        color: white;
+        font-size: 2rem;
+      }
+      p {
+        font-size: 2rem;
+        display: inline;
+        color: white;
+      }
+    }
+    &-group:first-child {
+      margin-top: 5rem;
+      &-name {
+        position: absolute;
+        top: 0;
+      }
+    }
+  }
+
+  @include respond(tab-port) {
+    flex-direction: column;
+    height: fit-content;
+
+    &-social {
+      margin-right: unset;
+      margin-bottom: 3rem;
+      margin-top: 5rem;
+      width: 90%;
+      height: 40rem;
+    }
+  }
+}
