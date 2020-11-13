@@ -492,4 +492,8 @@ html {
         height: 40rem; } }
 
 .footer {
-  height: 20vh; }
+  height: fit-content;
+  background-color: transparent;
+  text-align: center; }
+  .footer p {
+    font-size: 3rem; }
